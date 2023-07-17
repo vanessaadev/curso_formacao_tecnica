@@ -33,90 +33,52 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title">
 
-                        <p class="SubTitulo">MITIGAR E SE ADAPTAR</p>
+                        <p class="SubTitulo">Bases legais para a elaboração do PIA</p>
                         <hr>
                         <br>
 
-                        <p>Ações de mitigação são prioritárias, pois atuam nos processos que causam mudança do clima. Reduzindo as emissões, teremos menos desafios na adaptação ao clima. Contudo, as duas ações devem ser implementadas ao mesmo tempo e podem ser motivadas por interesses e prioridades locais, regionais ou pelas preocupações globais.</p>
-                        <p>Temos as diferenças entre o alcance dos efeitos das ações de mitigação e de adaptação: <button class="toggle btn btn-success" data-state="more"> Clique aqui para conferir</button></p>
+                        <p>A seguir comentaremos os principais artigos da Lei do SINASE (Lei nº 12.594/2012) que se configuram como bases legais para a elaboração do PIA.</p>
 
-                        <div class="text2">
-                            <table class="table" style="border: 1px solid #ffa73e;">
-                                <thead style="background-color: #ffa73e;">
-                                    <tr class="text-center">
-                                        <th scope="col"><strong>Ação</strong></th>
-                                        <th scope="col"><strong>Efeitos</strong></th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td scope="row"><strong>Mitigação</strong></td>
-                                        <td>
-                                            <ul class="none">
-                                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Tem efeitos globais, mesmo que suas ações tenham sido realizadas localmente. Envolve um maior número de países.</li>
-                                                <li class="wow fadeInLeft" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> As ações de reduções de emissões de CO2 podem ser alcançadas por diferentes ações de mitigação, podendo haver comparação entre uma ação e outra, da sua eficácia e do seu custo efetividade.</li>
-                                                <li class="wow fadeInLeft" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Os benefícios das medidas de mitigação hoje serão sentidos em algumas décadas e não imediatamente, devido ao caráter de permanência dos GEE na atmosfera.</li>
-                                                <li class="wow fadeInLeft" data-wow-delay="1.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O retorno dos custos aplicados em medidas de mitigação é mais demorado do que o retorno dos seus benefícios.</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td scope="row"><strong>Adaptação</strong></td>
-                                        <td>
-                                            <ul class="none">
-                                                <li class="wow fadeInLeft" data-wow-delay="1.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Funciona em uma escala de sistema de impactos regionais, mas que geralmente são sentidos localmente.</li>
-                                                <li class="wow fadeInLeft" data-wow-delay="1.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Por seu caráter local ou regional, os efeitos e benefícios das medidas de adaptação serão valorizados diferentemente, dependendo das questões sociais, econômicas e do contexto político no qual a ação está inserida.</li>
-                                                <li class="wow fadeInLeft" data-wow-delay="2.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> As medidas de adaptação são eficazes a curto prazo, trazendo benefícios na redução da vulnerabilidade à variabilidade climática natural.</li>
-                                                <li class="wow fadeInLeft" data-wow-delay="2.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O retorno dos gastos com adaptação e redução de vulnerabilidades são bem mais rápidos e mais fáceis de serem visualizados pela população e agentes políticos.</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-
-                            <span class="overflow2" data-state="visible" aria-hidden="true"></span>
-                        </div>
-                        <br>
-
-                        <p>Para a adoção dessas ações, é necessário considerar as especificidades regionais, as diferenças de percepção, a identificação do problema e a aceitação local da medida.</p>
-
-                        <p>As ações de combate à mudança do clima tendem a ser muito mais duradouras, eficazes e sustentáveis se estiverem atribuídas e atreladas a outros benefícios, tais como o ganho efetivo de geração de emprego e renda e incremento do desenvolvimento sustentável. Isso acarreta em uma maior força técnica e política na sua implementação, e contribui para uma maior aceitação das pessoas e consequente mudança de comportamento.</p>
-
-                        <p>A problemática das mudanças climáticas é real, e são necessários não apenas compromissos globais pelo clima, mas também ações coletivas e individuais que reduzam as emissões, promovam a adaptação e acima de tudo conduzam a humanidade para uma nova forma de ser e estar no mundo que considere as questões ambientais como prioridade, pois sem o meio ambiente não há vida na Terra.</p>
-
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura24.png" data-bs-toggle="modal" data-bs-target="#Imagem24">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" class="img-fluid" src="imagens/Figura24.png" alt="Alt da imagem fica aqui">
-                                <p class="TituloFigura">AJAs de Barroquinha/CE em ação. <br> Foto: @ajaambiental_barroquinha <br> Foto: SEMA.</p>
-                            </a>
+                        <div class="bd-callout bd-callout-warning">
+                            <ul class="none">
+                                <li class="wow fadeInUp" data-wow-delay="0.3s"><strong> Art. 52º</strong> - natureza obrigatória do PIA; </li><br>
+                                <li class="wow fadeInUp" data-wow-delay="0.6s"><strong> Art. 41º</strong> - versa sobre a avaliação do juiz e seu indeferimento, caso ache necessário; </li><br>
+                                <li class="wow fadeInUp" data-wow-delay="0.9s"><strong> Art. 42º</strong> - trata da avaliação a cada seis meses de sua evolução; </li><br>
+                                <li class="wow fadeInUp" data-wow-delay="1.3s"><strong> Art. 44º</strong> - afirma que pode ser alterado, desde que autorizado pela autoridade judiciária; </li><br>
+                                <li class="wow fadeInUp" data-wow-delay="1.6s"><strong> Art. 49º</strong> – determina a participação do adolescente nesse processo, além do Art. 56º que nos reporta ao cumprimento das medidas socioeducativas de Prestação de Serviços à Comunidade (PSC) e de Liberdade Assistida (L.A) estabelecendo o prazo de até 15 dias do ingresso do adolescente no programa de atendimento para a entrega do PIA; </li><br>
+                                <li class="wow fadeInUp" data-wow-delay="1.9s"><strong> Art. 58º</strong> - trata da reavaliação da medida, sendo obrigatória a apresentação pela direção do programa de atendimento e relatório da equipe técnica sobre a evolução do adolescente no cumprimento do plano individual de atendimento; </li><br>
+                                <li class="wow fadeInUp" data-wow-delay="2.3s"><strong> Art. 59º</strong> - prevê o acesso ao PIA restrito aos servidores do respectivo programa de atendimento, ao adolescente e a seus pais ou responsável, ao Ministério Público e ao defensor, exceto expressa autorização judicial. </li><br>
+                            </ul>
                         </div>
 
-                        <!-- Imagem 24 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem24" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura24.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
 
-                                    </div>
-                                </div>
+                        <!-- Fique Atento -->
+                        <div class="FiqueAtentoCaixa">
+                            <p class="FiqueAtentoTitulo"> Fique Atento</p>
+                            <div class="FiqueAtentoTexto">
+                                <p class="text-center"><strong>LEI Nº 12.594/2012 - LEI DO SINASE</strong></p>
+                                <p><strong>Art. 41</strong> - A autoridade judiciária dará vistas da proposta de plano individual de que trata ao Defensor e ao Ministério Público pelo prazo sucessivo de 3 (três) dias, contados do recebimento da proposta encaminhada.</p>
+                                <p><strong>Art. 42</strong> - As medidas socioeducativas de liberdade assistida, de semiliberdade e de internação deverão ser reavaliadas no máximo a cada 6 (seis) meses, podendo a autoridade judiciária, se necessário, designar audiência, no prazo máximo de 10 (dez) dias, cientificando o defensor, o Ministério Público, a direção do programa de atendimento, o adolescente e seus pais ou responsável.</p>
+                                <p><strong>Art. 44</strong> - Na hipótese de substituição da medida ou modificação das atividades do plano individual, a autoridade judiciária remeterá o inteiro teor da decisão à direção do programa de atendimento, assim como as peças que entender relevantes à nova situação jurídica do adolescente.</p>
+                                <p><strong>Art. 52</strong> - Natureza obrigatória - “(...) instrumento de previsão, registro e gestão das (…) atividades a serem desenvolvidas com o adolescente”. Parágrafo ùnico “deverá contemplar a participação dos pais ou responsáveis, os quais têm o dever de contribuir com o processo ressocializador do adolescente (...)”.</p>
+                                <p><strong>Art. 54</strong> - Constarão do plano individual, no mínimo:</p>
+
+                                <ol type="I">
+                                    <li class="wow fadeInDown" data-wow-delay="0.3s"> os resultados da avaliação interdisciplinar;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.6s"> os objetivos declarados pelo adolescente;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.9s"> a previsão de suas atividades de integração social e/ou capacitação profissional;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="1.3s"> atividades de integração e apoio à família;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="1.6s"> formas de participação da família para efetivo cumprimento do plano individual;</li>
+                                    <li class="wow fadeInDown" data-wow-delay="1.9s"> as medidas específicas de atenção à sua saúde.</li>
+                                </ol>
+
+                                <p><strong>Art. 56</strong> - Para o cumprimento das medidas de prestação de serviços à comunidade e de liberdade assistida, o PIA será elaborado no prazo de até 15 (quinze) dias do ingresso do adolescente no programa de atendimento.</p>
+                                <p><strong>Art. 57</strong> - Para a elaboração do PIA, a direção do respectivo programa de atendimento, pessoalmente ou por meio de membro da equipe técnica, terá acesso aos autos do procedimento de apuração do ato infracional e aos dos procedimentos de apuração de outros atos infracionais atribuídos ao mesmo adolescente.</p>
+                                <p><strong>Art. 58</strong> - Por ocasião da reavaliação da medida, é obrigatória a apresentação pela direção do programa de atendimento e relatório da equipe técnica sobre a evolução do adolescente no cumprimento do plano individual.</p>
+                                <p><strong>Art. 59</strong> - O acesso ao plano individual será restrito aos servidores do respectivo programa de atendimento, ao adolescente e a seus pais ou responsável, ao Ministério Público e ao defensor, exceto expressa autorização judicial.*</p>
+
                             </div>
                         </div>
-                        <!-- Imagem 24 - End -->
-                        <br>
-
-                        <!-- Importante -->
-                        <div class="ImportanteCaixa">
-                            <p class="ImportanteTitulo"> Importante</p>
-                            <div class="ImportanteTexto">
-                                <p>Essa é sua principal missão como um AGENTE JOVEM AMBIENTAL. Qualquer que seja o tema do seu Projeto, ele deve contribuir contra as mudanças climáticas de algum modo. Por isso você tem que agir e incentivar os outros a agir também! Todos juntos pelo clima!</p>
-                            </div>
-                        </div>
-
-
 
 
 
@@ -144,7 +106,7 @@ include('layout/header.php');
             <!-- Botões de navegação -->
             <div class="text-center">
                 <a href="Topico03.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
-                <a href="Topico04.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+                <a href="Topico03.3.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
             </div>
 
         </div> <!-- CONTEUDO FIM -->
