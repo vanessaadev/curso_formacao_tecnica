@@ -160,7 +160,6 @@ include('layout/header.php');
                 </div>
 
                 <!-- Dúvida  -->
-
                 <div class="DuvidaCaixa">
                     <p class="DuvidaTitulo"> Dúvida</p>
                     <div class="DuvidaTexto">

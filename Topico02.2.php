@@ -33,117 +33,57 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title">
 
-                        <!-- Sub Título -->
-                        <p class="SubTitulo"> ACORDO DE PARIS E JUSTIÇA CLIMÁTICA </p>
+                    <p class="SubSubTitulo">Prontuário SUAS físico</p>
                         <hr>
+                        <br>
 
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura16.png" data-bs-toggle="modal" data-bs-target="#Imagem16">
-                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" width="500" class="img-fluid" src="imagens/Figura16.png" alt="Alt da imagem fica aqui">
+                        <p>Utilizado pelas equipes de referência das Unidades Socioassistenciais, CRAS, CREAS e Centro POP, tem como principal característica, o registro detalhado acerca dos atendimentos e acompanhamentos realizados juntos às famílias/indivíduos. Além disso, permite apontamentos, concomitantes, do acompanhamento realizado por mais de um Serviço na mesma Unidade.</p>
 
-                            </a>
-                        </div>
+                        <!-- Importante -->
+                        <div class="ImportanteCaixa">
+                            <p class="ImportanteTitulo"> Importante</p>
+                            <div class="ImportanteTexto">
+                                <p>O Prontuário SUAS físico deverá ser utilizado concomitantemente com o Prontuário Eletrônico Simplificado.</p>
 
-                        <!-- Imagem 16 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem16" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura16.png" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Imagem 16 - End -->
-                        <br><br>
-
-
-                        <p>Com o passar do tempo, a crise climática foi se agravando e surgiu a necessidade de metas de redução de emissões mais ambiciosas. Com isso, em 2015 durante a COP 21 em Paris, foi assinado o <strong>Acordo de Paris</strong>, que é um tratado mundial sobre as alterações climáticas. Tem como objetivo reduzir o aquecimento global e <strong>limitar o aumento da temperatura média mundial a 1,5 ºC</strong>, quando comparado a níveis pré-industriais. Para isso, ele estabeleceu metas de redução das emissões, além de outros instrumentos.</p>
-
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura17.jpg" data-bs-toggle="modal" data-bs-target="#Imagem16">
-                                <img class="img-fluid wow fadeInLeft" data-wow-delay="0.5s" width="500" class="img-fluid" src="imagens/Figura17.jpg" alt="Alt da imagem fica aqui">
-
-                            </a>
-                        </div>
-
-                        <!-- Imagem 17 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem17" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura17.jpg" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Imagem 17 - End -->
-                        <br><br>
-
-
-
-
-
-                        <p>Além da redução das emissões de GEE, uma outra meta do Acordo de Paris é estimular os países desenvolvidos a dar suporte financeiro e tecnológico aos países subdesenvolvidos, de modo a colaborar na ampliação de ações de combate às mudanças climáticas propostas pelos países em desenvolvimento. Outras metas do Acordo de Paris são:</p>
-
-                        <ul class="none">
-                            <li class="wow fadeInUp" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Recomendações quanto à adaptação dos países signatários às mudanças climáticas, em especial para os países menos desenvolvidos, de modo a reduzir a vulnerabilidade a eventos climáticos extremos;</li><br>
-                            <li class="wow fadeInUp" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Estimular o suporte financeiro e tecnológico por parte dos países desenvolvidos para ampliar as ações que levam ao cumprimento das metas para 2020 dos países menos desenvolvidos;</li><br>
-                            <li class="wow fadeInUp" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Promover o desenvolvimento tecnológico, transferência de tecnologia e capacitação para adaptação às mudanças climáticas;</li><br>
-                            <li class="wow fadeInUp" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Proporcionar a cooperação entre a sociedade civil, o setor privado, instituições financeiras, cidades, comunidades e povos indígenas para ampliar e fortalecer ações de mitigação do aquecimento global.</li>
-                        </ul>
-
-
-                        <p>Uma outra instituição que também é fundamental nos trabalhos voltados para as Mudanças Climáticas é o <strong>Painel Intergovernamental sobre Mudanças Climáticas (IPCC)</strong>, um órgão das Nações Unidas que reúne cientistas independentes de todo o mundo, incluindo pesquisadores brasileiros, responsáveis por avaliar a ciência relacionada às mudanças climáticas.</p>
-
-                        <!-- Titulo Figura -->
-                        <div class="text-center">
-                            <a href="imagens/Figura19.jpg" data-bs-toggle="modal" data-bs-target="#Imagem19">
-                                <img class="img-fluid wow fadeInRight" width="200" data-wow-delay="0.5s" width="500" class="img-fluid" src="imagens/Figura19.jpg" alt="Alt da imagem fica aqui">
-
-                            </a>
-                        </div>
-
-                        <!-- Imagem 19 - MODAL -->
-                        <div class="modal fade text-center" id="Imagem19" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura19.jpg" alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer text-center">
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Imagem 19 - End -->
-                        <br><br>
-
-                        <!-- Fique Atento -->
-                        <div class="FiqueAtentoCaixa">
-                            <p class="FiqueAtentoTitulo"> Fique Atento</p>
-                            <div class="FiqueAtentoTexto">
-                                <p>O IPCC avalia as informações científicas, técnicas e socioeconômicas mais significativas para contribuir na compreensão sobre os riscos da mudança do clima, seus impactos e as possíveis alternativas de adaptação e mitigação, consolidando essas informações em relatórios periodicamente publicados, chamados Relatórios de Avaliação. O primeiro foi publicado em 1992, e o último em 2023.</p>
+                                <p>A Resolução da CIB-CE nº 013/2018 pactua e a Resolução do CEAS nº 022/2018 aprova que no Ceará o Prontuário SUAS deve ser utilizado pelos profissionais de nível superior das equipes de referência das Unidades CRAS e CREAS responsáveis pelo acompanhamento familiar realizado pelo PAIF e PAEFI, independente da existência de conselho ou organização de classe.
+                                </p>
                             </div>
                         </div>
                         <br><br>
 
-                        <!-- Saiba Mais -->
-                        <div class="SaibaMaisCaixa">
-                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                            <div class="SaibaMaisTexto">
-                                <p><a href="https://www.wribrasil.org.br/noticias/10-conclusoes-do-relatorio-do-ipcc-sobre-mudancas-climaticas-de-2023" target="_blank">Saiba quais foram as principais conclusões dos cientistas.</a></p>
-                            </div>
+
+                        <p>Conforme o Caderno de Orientações Técnicas – Serviço de Medidas Socioeducativas em Meio Aberto:</p>
+
+                        <div class="bd-callout bd-callout-success">
+                            <p>Sempre que é aberto um novo Prontuário SUAS, ou realizado algum registro/atualização das informações nele contidas, os registros correspondentes a essas novas informações devem ser inseridos também no Prontuário Eletrônico. (Brasil, 2016, pág.71)</p>
                         </div>
+
+                        <p class="SubSubTitulo">Prontuário SUAS Eletrônico Simplificado</p>
+                        <hr>
+                        <br>
+
+
+                        <p>O Prontuário SUAS eletrônico simplificado tem como característica o registro de informações de forma célere e de fácil manuseio, facilitando a visualização dos atendimentos realizados junto às famílias e indivíduos. Ele teve origem do Formulário 2 anexo ao Registro Mensal de Atendimento – RMA inicialmente utilizado pelas Unidades.</p>
+
+                        <p>Para o registro de informações sobre as ações realizadas especificamente junto aos adolescentes em cumprimento de MSE, o prontuário simplificado através do NIS do adolescente possibilita o acesso aos seguintes dados:</p>
+
+                        <div class="d-flex flex-wrap align-items-center justify-content-center">
+                            <p class="miniCaixaVerde wow fadeInLeft" data-wow-delay="0.3s" data-wow-duration="2.5s">O registro das medidas em cumprimento</p>
+                            <p class="miniCaixaVerde wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="2.5s">O local de cumprimento da medida</p>
+                            <p class="miniCaixaVerde wow fadeInLeft" data-wow-delay="0.9s" data-wow-duration="2.5s">Data do desligamento do Serviço</p>
+                            <p class="miniCaixaVerde wow fadeInLeft" data-wow-delay="1.3s" data-wow-duration="2.5s">Data de início do Acompanhamento</p>
+                        </div>
+
+
+                        <p>Outro ponto importante, diz respeito à inserção dos adolescentes em cumprimento de LA e PSC e sua família no CadÚnico (2016, p. 68):</p>
+
+                        <div class="bd-callout- bd-callout-success">
+                            <p>(…) a inserção das famílias no Cadastro Único e a devida identificação do adolescente e seu respectivo NIS no Prontuário Eletrônico Simplificado constituem procedimentos que devem ser, obrigatoriamente, incorporados ao processo de trabalho de técnicos e gestores, iniciados desde o momento da acolhida.</p>
+                        </div>
+
+                        <p>O acesso ao Prontuário Eletrônico Simplificado é online, a partir da criação de usuário e senha, via Sistema de Autenticação e Autorização – SAA Web, sendo esse o mesmo acesso concedido ao RMA.</p>
+
+                        <p>Realçamos que a efetividade do trabalho social realizado com os adolescentes em cumprimento de medidas socioeducativas em meio aberto e suas famílias, dependerá da união de esforços envolvendo o adolescente, a família e a rede proteção local.</p>
 
 
 
@@ -167,8 +107,8 @@ include('layout/header.php');
 
             <!-- Botões de navegação -->
             <div class="text-center">
-                <a href="Topico02.1.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
-                <a href="Topico03.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+                <a href="Topico02.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
+                <a href="Topico02.3.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
             </div>
 
         </div> <!-- CONTEUDO FIM -->
