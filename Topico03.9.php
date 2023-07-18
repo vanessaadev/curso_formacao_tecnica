@@ -314,7 +314,27 @@ include('layout/header.php');
                                             <li class="wow fadeInLeft" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> A frequência é uma obrigação do adolescente, contudo a entidade deve estar aberta para discutir com ele sobre as condições para execução das atividades e os percalços atravessados no cotidiano. Alterações podem ser pactuadas e sempre informadas à equipe técnica do serviço, para avaliação conjunta.</li><br>
                                         </ul>
 
-                                        <!-- imagem -->
+                                        <!-- Titulo Figura -->
+                                        <div class="text-center">
+                                            <a href="imagens/Figura06.png" data-bs-toggle="modal" data-bs-target="#Imagem06">
+                                                <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" class="img-fluid" src="imagens/Figura06.png" alt="Alt da imagem fica aqui">
+                                                <p class="TituloFigura img-fluid wow fadeInLeft">Fonte: Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p. 79)</p>
+                                            </a>
+                                        </div>
+
+                                        <!-- Imagem 06 - MODAL -->
+                                        <div class="modal fade text-center" id="Imagem06" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                                <div class="modal-content">
+                                                    <div class="modal-body">
+                                                        <img class="img-fluid" src="imagens/Figura06.png" alt="Alt da imagem fica aqui">
+                                                    </div>
+                                                    <div class="modal-footer text-center">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Imagem 06 - End -->
 
 
                                     </div>
@@ -433,237 +453,249 @@ include('layout/header.php');
                                                     </div>
                                                 </div>
                                             </div>
-                                    </div>
-                                    </section>
-                                    <br><br>
+                                        </section>
+                                        <br><br>
+
+
+                                        <p>Voltados a esse aspecto destacamos três pontos valiosos a serem observados com relação a quem avalia o processo socioeducativo. Antes de apresentá-los é importante destacar que “é no adolescente e sua família que encontramos respostas não apenas sobre o resultado do processo, mas sobre o sentido da caminhada.” (BRASIL, 2022, p. 83) </p>
+
+                                        <!-- Início Accordion -->
+                                        <div class="accordion accordion-flush" style="margin: 50px;" id="AccordionFase03">
+                                            <center>
+                                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                                            </center>
+                                            <!-- Accordion 10 -->
+                                            <div class="accordion-item" style="border: 1px solid green;">
+                                                <h2 class="accordion-header" id="Item10">
+                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTen" aria-expanded="false" aria-controls="flush-collapseTen">
+                                                        <strong>AVALIAÇÃO DO ADOLESCENTE</strong>
+                                                    </button>
+                                                </h2>
+                                                <div id="flush-collapseTen" class="accordion-collapse collapse" aria-labelledby="Item10" data-bs-parent="#AccordionFase03">
+                                                    <div class="accordion-body">
+
+                                                        <p>Realizada através de questionários, fichas, reuniões, entrevistas e visitas domiciliares quando do término da medida e a autoridade judiciária já tiver decidido quanto a extinção ou agravamento do processo. Importante destacar que a avaliação do adolescente sobre seu processo socioeducativo não pode ser utilizada como critério para as decisões técnicas ou judiciais e que pode ser realizada de forma anônima, caso o adolescente opte por essa modalidade, uma vez que diminui os possíveis receios e constrangimentos, fomentando a participação de mais pessoas. “Sob nenhuma hipótese a avaliação dos adolescentes e de suas famílias pode ser imposta, mas sim incentivada, explicando seu sentido”. (BRASIL, 2022 p. 83)</p>
 
 
 
-
-
-                                    <p>Voltados a esse aspecto destacamos três pontos valiosos a serem observados com relação a quem avalia o processo socioeducativo. Antes de apresentá-los é importante destacar que “é no adolescente e sua família que encontramos respostas não apenas sobre o resultado do processo, mas sobre o sentido da caminhada.” (BRASIL, 2022, p. 83) </p>
-
-                                    <!-- Início Accordion -->
-                                    <div class="accordion accordion-flush" style="margin: 50px;" id="AccordionFase03">
-                                        <center>
-                                            <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
-                                        </center>
-                                        <!-- Accordion 10 -->
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header" id="Item10">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTen" aria-expanded="false" aria-controls="flush-collapseTen">
-                                                    <strong>AVALIAÇÃO DO ADOLESCENTE</strong>
-                                                </button>
-                                            </h2>
-                                            <div id="flush-collapseTen" class="accordion-collapse collapse" aria-labelledby="Item10" data-bs-parent="#AccordionFase01">
-                                                <div class="accordion-body">
-
-                                                    <p>Realizada através de questionários, fichas, reuniões, entrevistas e visitas domiciliares quando do término da medida e a autoridade judiciária já tiver decidido quanto a extinção ou agravamento do processo. Importante destacar que a avaliação do adolescente sobre seu processo socioeducativo não pode ser utilizada como critério para as decisões técnicas ou judiciais e que pode ser realizada de forma anônima, caso o adolescente opte por essa modalidade, uma vez que diminui os possíveis receios e constrangimentos, fomentando a participação de mais pessoas. “Sob nenhuma hipótese a avaliação dos adolescentes e de suas famílias pode ser imposta, mas sim incentivada, explicando seu sentido”. (BRASIL, 2022 p. 83)</p>
-
-
-
-                                                    <br>
+                                                        <br>
+                                                    </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <!-- Fim Accordion 10 -->
+                                            <!-- Fim Accordion 10 -->
 
-                                        <!-- Accordion 09 -->
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header" id="Item09">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseNine" aria-expanded="false" aria-controls="flush-collapseNine">
-                                                    <strong>AVALIAÇÃO REALIZADA PELA FAMÍLIA</strong>
-                                                </button>
-                                            </h2>
-                                            <div id="flush-collapseNine" class="accordion-collapse collapse" aria-labelledby="Item09" data-bs-parent="#AccordionFase03">
-                                                <div class="accordion-body">
+                                            <!-- Accordion 09 -->
+                                            <div class="accordion-item" style="border: 1px solid green;">
+                                                <h2 class="accordion-header" id="Item09">
+                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseNine" aria-expanded="false" aria-controls="flush-collapseNine">
+                                                        <strong>AVALIAÇÃO REALIZADA PELA FAMÍLIA</strong>
+                                                    </button>
+                                                </h2>
+                                                <div id="flush-collapseNine" class="accordion-collapse collapse" aria-labelledby="Item09" data-bs-parent="#AccordionFase03">
+                                                    <div class="accordion-body">
 
-                                                    <p>Essa avaliação possui elementos semelhantes a dos adolescentes, porém com aspectos próprios assumindo as responsabilidades dela (família) nesse processo. Ela pode ser feita separadamente de forma a garantir a privacidade e que ambos se sintam confortáveis em expor suas opiniões. Essa avaliação deve abordar as peculiaridades do processo vivenciado pela família em relação ao adolescente durante o processo de acompanhamento socioeducativo e ao final dele, contemplando a rede de apoio disponível e quais possíveis mudanças foram percebidas.</p>
-                                                    <br>
+                                                        <p>Essa avaliação possui elementos semelhantes a dos adolescentes, porém com aspectos próprios assumindo as responsabilidades dela (família) nesse processo. Ela pode ser feita separadamente de forma a garantir a privacidade e que ambos se sintam confortáveis em expor suas opiniões. Essa avaliação deve abordar as peculiaridades do processo vivenciado pela família em relação ao adolescente durante o processo de acompanhamento socioeducativo e ao final dele, contemplando a rede de apoio disponível e quais possíveis mudanças foram percebidas.</p>
+                                                        <br>
+                                                    </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <!-- Fim Accordion 09 -->
+                                            <!-- Fim Accordion 09 -->
 
-                                        <!-- Accordion 08 -->
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header" id="Item08">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
-                                                    <strong>AVALIAÇÃO TÉCNICA COM COLEGAS DA ASSISTÊNCIA SOCIAL E OUTRAS ÁREAS</strong>
-                                                </button>
-                                            </h2>
-                                            <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="Item08" data-bs-parent="#AccordionFase03">
-                                                <div class="accordion-body">
+                                            <!-- Accordion 08 -->
+                                            <div class="accordion-item" style="border: 1px solid green;">
+                                                <h2 class="accordion-header" id="Item08">
+                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
+                                                        <strong>AVALIAÇÃO TÉCNICA COM COLEGAS DA ASSISTÊNCIA SOCIAL E OUTRAS ÁREAS</strong>
+                                                    </button>
+                                                </h2>
+                                                <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="Item08" data-bs-parent="#AccordionFase03">
+                                                    <div class="accordion-body">
 
-                                                    <p>Essa avaliação busca analisar o alcance das metas pactuadas, os desafios vivenciados, as formas de resolução desses impasses, se as soluções encontradas podem ser replicadas em casos futuros e se as metas previstas pelo Serviço Social, pela Psicologia, Direito ou Pedagogia foram contempladas, além de observar se houve conflito entre as áreas.</p>
+                                                        <p>Essa avaliação busca analisar o alcance das metas pactuadas, os desafios vivenciados, as formas de resolução desses impasses, se as soluções encontradas podem ser replicadas em casos futuros e se as metas previstas pelo Serviço Social, pela Psicologia, Direito ou Pedagogia foram contempladas, além de observar se houve conflito entre as áreas.</p>
 
 
-                                                    <br>
+                                                        <br>
+                                                    </div>
                                                 </div>
                                             </div>
+                                            <!-- Fim Accordion 08 -->
+
                                         </div>
-                                        <!-- Fim Accordion 08 -->
-
-                                    </div>
-                                    <!-- FIM Accordion -->
-                                    <br><br>
+                                        <!-- FIM Accordion -->
+                                        <br><br>
 
 
-                                    <p>Importante ressaltar que as avaliações externas, por pessoas de fora do serviço mas participam desse processo (Sistema de Justiça, Ministério Público, Defensorias, Conselhos Municipais de Assistência Social, Direitos Humanos ou dos Direitos da Criança e do Adolescente) são essenciais. Elas visam o levantamento de aspectos que, muitas vezes, passam despercebidos pelos atores envolvidos diretamente.</p>
+                                        <p>Importante ressaltar que as avaliações externas, por pessoas de fora do serviço mas participam desse processo (Sistema de Justiça, Ministério Público, Defensorias, Conselhos Municipais de Assistência Social, Direitos Humanos ou dos Direitos da Criança e do Adolescente) são essenciais. Elas visam o levantamento de aspectos que, muitas vezes, passam despercebidos pelos atores envolvidos diretamente.</p>
 
-                                    <p>Normalmente as avaliações externas são mais amplas, com elementos estruturais do serviço, como: infraestrutura, metodologias, recursos, equipe técnica, devendo ser um compromisso da gestão do município a qualidade e o aprimoramento continuado das ofertas. </p>
+                                        <p>Normalmente as avaliações externas são mais amplas, com elementos estruturais do serviço, como: infraestrutura, metodologias, recursos, equipe técnica, devendo ser um compromisso da gestão do município a qualidade e o aprimoramento continuado das ofertas. </p>
 
-                                    <p>Podem ser utilizadas várias formas de avaliação no PIA voltadas: a eficiência, referentes aos custos e benefícios; a eficácia, que avalia o alcance dos objetivos e a efetividade que é voltada aos impactos sentidos. Todas elas devem ser pensadas quando do processo de levantamento de indicadores e metas pactuadas dentro desse processo. </p>
+                                        <p>Podem ser utilizadas várias formas de avaliação no PIA voltadas: a eficiência, referentes aos custos e benefícios; a eficácia, que avalia o alcance dos objetivos e a efetividade que é voltada aos impactos sentidos. Todas elas devem ser pensadas quando do processo de levantamento de indicadores e metas pactuadas dentro desse processo. </p>
 
-                                    <p class="text-center fa-1x"><strong>Peculiaridades sobre a avaliação da medida socioeducativa de Liberdade Assistida e a de Prestação de Serviço à Comunidade </strong></p>
+                                        <p class="text-center fa-2x text-success"><strong>Peculiaridades sobre a avaliação da medida socioeducativa de Liberdade Assistida e a de Prestação de Serviço à Comunidade </strong></p>
+                                        <hr>
 
-                                    <p><u><strong>Avaliando a Liberdade Assistida (LA)</strong></u></p>
+                                        <p><u><strong>Avaliando a Liberdade Assistida (LA)</strong></u></p>
 
-                                    <p>De acordo com o Art. 119º do Estatuto da Criança e Adolescente, a Liberdade Assistida deve ser analisada considerando seus aspectos subjetivos e objetivos.</p>
+                                        <p>De acordo com o Art. 119º do Estatuto da Criança e Adolescente, a Liberdade Assistida deve ser analisada considerando seus aspectos subjetivos e objetivos.</p>
 
-                                    <div class="bd-callout bd-callout-primary">
-                                        <p>Art. 119. Incumbe ao orientador, com o apoio e a supervisão da autoridade competente, a realização dos seguintes encargos, entre outros:</p>
+                                        <div class="bd-callout bd-callout-primary">
+                                            <p>Art. 119. Incumbe ao orientador, com o apoio e a supervisão da autoridade competente, a realização dos seguintes encargos, entre outros:</p>
 
-                                        <ol type="I">
-                                            <li class="wow fadeInRight" data-wow-delay="0.3s">> promover socialmente o adolescente e sua família, fornecendo-lhes orientação e inserindo-os, se necessário, em programa oficial ou comunitário de auxílio e assistência social;</li>
-                                            <li class="wow fadeInRight" data-wow-delay="0.6s">> supervisionar a frequência e o aproveitamento escolar do adolescente, promovendo, inclusive, sua matrícula;</li>
-                                            <li class="wow fadeInRight" data-wow-delay="0.9s">> diligenciar no sentido da profissionalização do adolescente e de sua inserção no mercado de trabalho;</li>
-                                            <li class="wow fadeInRight" data-wow-delay="1.3s">> apresentar relatório do caso.</li>
-                                        </ol>
+                                            <ol type="I">
+                                                <li class="wow fadeInRight" data-wow-delay="0.3s"> promover socialmente o adolescente e sua família, fornecendo-lhes orientação e inserindo-os, se necessário, em programa oficial ou comunitário de auxílio e assistência social;</li>
+                                                <li class="wow fadeInRight" data-wow-delay="0.6s"> supervisionar a frequência e o aproveitamento escolar do adolescente, promovendo, inclusive, sua matrícula;</li>
+                                                <li class="wow fadeInRight" data-wow-delay="0.9s"> diligenciar no sentido da profissionalização do adolescente e de sua inserção no mercado de trabalho;</li>
+                                                <li class="wow fadeInRight" data-wow-delay="1.3s"> apresentar relatório do caso.</li>
+                                            </ol>
 
-                                    </div>
-
-                                    <p>Conforme observado o artigo apresenta diversas funções que possuem aspectos que devem ser considerados e verificados seu nível de alcance os quais trataremos a seguir: </p>
-
-                                    <ol>
-                                        <li>Quanto inciso I - Promover socialmente o adolescente e sua família, fornecendo-lhes orientação e inserindo-os, se necessário, em programa oficial ou comunitário de auxílio e assistência social é preciso considerar:</li>
-
-                                        <ol type="a">
-                                            <li>as vulnerabilidades identificadas;</li>
-                                            <li>a inserção nas iniciativas da proteção social básica, especial ou de proteção a pessoas ameaçadas (PBF, ACESSUAS, BPC, PAIF, PAEFI, PPCAM, PPPRO, PROVITA);</li>
-                                            <li>como se deu esse acompanhamento e a interlocução entre as equipes de referência;</li>
-                                            <li>como aconteceu a referência e a contrarreferência;</li>
-                                            <li>o nível de adesão dos usuários.</li>
-                                        </ol>
-
-
-                                        <li>Quanto ao inciso II - Supervisionar a frequência e o aproveitamento escolar do adolescente, promovendo, inclusive, sua matrícula faz-se necessário conhecer como se deu:</li>
-
-                                        <ol type="a">
-                                            <li>a relação com a escola ou a Secretaria de Educação;</li>
-                                            <li>se houveram matrículas ou rematrículas e se houve empecilho para tal;</li>
-                                            <li>se o adolescente foi partícipe nesse processo;</li>
-                                            <li>se houve engajamento dele com o nivelamento idade-série;</li>
-                                            <li>se houveram relatos de preconceitos ou bullying.</li>
-                                        </ol>
-
-
-                                        <li>Sobre o inciso III - Diligenciar no sentido da profissionalização do adolescente e de sua inserção no mercado de trabalho deve-se buscar identificar:</li>
-
-                                        <ol type="a">
-                                            <li>se houve interesses da parte do adolescente no engajamento em cursos profissionalizantes e quais as dificuldades para isso;</li>
-                                            <li>se foi possível fazer a inclusão em redes protegidas de trabalho para maiores de 16 anos (além da aprendizagem).</li>
-                                        </ol>
-
-                                        <li>Acerca do inciso IV - Apresentar relatório do caso deve-se atentar:</li>
-
-                                        <ol type="a">
-                                            <li>se os relatórios foram feitos em tempo hábil para o Sistema de Justiça, se houve alguma dificuldade para isso;</li>
-                                            <li>se a equipe pôde contar com treinamento para construção desses relatórios;</li>
-                                            <li>qual o feedback do sistema de justiça para esses relatórios.</li>
-                                        </ol>
-                                    </ol>
-
-                                    <p>Sugerimos indicadores de análise que podem ser utilizados durante os processos citados acima: </p>
-
-                                    <ol type="a">
-                                        <li>Nível de adesão dos usuários: satisfatório/insatisfatório/abandono; </li>
-                                        <li>Referência e contra-referência: satisfatório/insatisfatório/abandono; </li>
-                                        <li>Participação dos parceiros setoriais: satisfatório/insatisfatório/abandono; </li>
-                                        <li>Qualidade da oferta: satisfatório/insatisfatório/abandono. </li>
-                                    </ol>
-
-                                    <p><u><strong>Avaliando a Prestação de Serviços à Comunidade (PSC) </strong></u></p>
-
-                                    <p>A avaliação na PSC compete tanto à unidade de acompanhamento do SUAS, quanto às entidades parceiras que recebem os adolescentes para a realização das atividades, de forma a ouvir os profissionais e saber quais as suas dificuldades enquanto referência neste serviço. É preciso avaliar: </p>
-
-                                    <ul class="none">
-                                        <li>como os profissionais da entidade se sentiram; </li>
-                                        <li>se houve conflitos entre eles e os adolescentes; </li>
-                                        <li>se a entidade, de fato, conseguiu realizar as entregas pactuadas no PIA; </li>
-                                        <li>como os adolescentes se sentiram naquela entidade. </li>
-                                    </ul>
-
-                                    <p>É importante que essas entidades tenham um retorno de como a PSC impactou positivamente na vida daquele adolescente após o cumprimento da medida, e quais as dificuldades enfrentadas por ele, bem como se foram sanadas. </p>
-
-                                    <p>Segundo o Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (2022, p. 87) deve-se observar na avaliação da medida de PSC: </p>
-
-                                    <ul class="none">
-                                        <li>A atividade realizada atingiu de fato os objetivos propostos? </li>
-                                        <li>O adolescente sentiu-se confortável para discutir a natureza das atividades ou teve vontade de substituí-las por outras? </li>
-                                        <li>É possível perceber pelo discurso ou pelas práticas do adolescente que houve algum ganho subjetivo com a execução da atividade? </li>
-                                        <li>A atividade foi importante para seu processo de responsabilização? </li>
-                                        <li>O monitoramento realizado foi suficiente para identificar as dificuldades ou apenas no término da medida que foram percebidos aspectos que poderiam ter sido alterados antes? </li>
-                                        <li>Houve alguma manifestação da comunidade sobre a importância da atividade realizada pelo adolescente ou mudança de visão sobre ele? </li>
-                                    </ul>
-
-                                    <!-- Fique Atento -->
-                                    <div class="FiqueAtentoCaixa">
-                                        <p class="FiqueAtentoTitulo"> Fique Atento</p>
-                                        <div class="FiqueAtentoTexto">
-                                            <p>Avaliar é aprender! Mas para que possamos aprender, é necessário tornar os resultados claros, mesmo que não tenham sido positivos. Há quatro aspectos fundamentais para refletir sobre o processo socioeducativo de cada adolescente. (BRASIL, 2022, p. 87)</p>
                                         </div>
+
+                                        <p>Conforme observado o artigo apresenta diversas funções que possuem aspectos que devem ser considerados e verificados seu nível de alcance os quais trataremos a seguir: </p>
+
+                                        <ol>
+                                            <li>Quanto inciso I - Promover socialmente o adolescente e sua família, fornecendo-lhes orientação e inserindo-os, se necessário, em programa oficial ou comunitário de auxílio e assistência social é preciso considerar:</li>
+                                            <br>
+
+                                            <ol type="a">
+                                                <li>as vulnerabilidades identificadas;</li>
+                                                <li>a inserção nas iniciativas da proteção social básica, especial ou de proteção a pessoas ameaçadas (PBF, ACESSUAS, BPC, PAIF, PAEFI, PPCAM, PPPRO, PROVITA);</li>
+                                                <li>como se deu esse acompanhamento e a interlocução entre as equipes de referência;</li>
+                                                <li>como aconteceu a referência e a contrarreferência;</li>
+                                                <li>o nível de adesão dos usuários.</li>
+                                            </ol>
+                                            <br>
+
+
+                                            <li>Quanto ao inciso II - Supervisionar a frequência e o aproveitamento escolar do adolescente, promovendo, inclusive, sua matrícula faz-se necessário conhecer como se deu:</li>
+                                            <br>
+
+                                            <ol type="a">
+                                                <li>a relação com a escola ou a Secretaria de Educação;</li>
+                                                <li>se houveram matrículas ou rematrículas e se houve empecilho para tal;</li>
+                                                <li>se o adolescente foi partícipe nesse processo;</li>
+                                                <li>se houve engajamento dele com o nivelamento idade-série;</li>
+                                                <li>se houveram relatos de preconceitos ou bullying.</li>
+                                            </ol>
+                                            <br>
+
+
+                                            <li>Sobre o inciso III - Diligenciar no sentido da profissionalização do adolescente e de sua inserção no mercado de trabalho deve-se buscar identificar:</li>
+                                            <br>
+
+                                            <ol type="a">
+                                                <li>se houve interesses da parte do adolescente no engajamento em cursos profissionalizantes e quais as dificuldades para isso;</li>
+                                                <li>se foi possível fazer a inclusão em redes protegidas de trabalho para maiores de 16 anos (além da aprendizagem).</li>
+                                            </ol>
+                                            <br>
+
+                                            <li>Acerca do inciso IV - Apresentar relatório do caso deve-se atentar:</li>
+                                            <br>
+
+                                            <ol type="a">
+                                                <li>se os relatórios foram feitos em tempo hábil para o Sistema de Justiça, se houve alguma dificuldade para isso;</li>
+                                                <li>se a equipe pôde contar com treinamento para construção desses relatórios;</li>
+                                                <li>qual o feedback do sistema de justiça para esses relatórios.</li>
+                                            </ol>
+                                        </ol>
+
+                                        <p>Sugerimos indicadores de análise que podem ser utilizados durante os processos citados acima: </p>
+
+                                        <ol type="a">
+                                            <li>Nível de adesão dos usuários: satisfatório/insatisfatório/abandono; </li>
+                                            <li>Referência e contra-referência: satisfatório/insatisfatório/abandono; </li>
+                                            <li>Participação dos parceiros setoriais: satisfatório/insatisfatório/abandono; </li>
+                                            <li>Qualidade da oferta: satisfatório/insatisfatório/abandono. </li>
+                                        </ol>
+
+                                        <p><u><strong>Avaliando a Prestação de Serviços à Comunidade (PSC) </strong></u></p>
+
+                                        <p>A avaliação na PSC compete tanto à unidade de acompanhamento do SUAS, quanto às entidades parceiras que recebem os adolescentes para a realização das atividades, de forma a ouvir os profissionais e saber quais as suas dificuldades enquanto referência neste serviço. É preciso avaliar: </p>
+
+                                        <ul class="none">
+                                            <li class="wow fadeIn" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> como os profissionais da entidade se sentiram; </li>
+                                            <li class="wow fadeIn" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> se houve conflitos entre eles e os adolescentes; </li>
+                                            <li class="wow fadeIn" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> se a entidade, de fato, conseguiu realizar as entregas pactuadas no PIA; </li>
+                                            <li class="wow fadeIn" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> como os adolescentes se sentiram naquela entidade. </li>
+                                        </ul>
+
+                                        <p>É importante que essas entidades tenham um retorno de como a PSC impactou positivamente na vida daquele adolescente após o cumprimento da medida, e quais as dificuldades enfrentadas por ele, bem como se foram sanadas. </p>
+
+                                        <p>Segundo o Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (2022, p. 87) deve-se observar na avaliação da medida de PSC: </p>
+
+                                        <ul class="none">
+                                            <li class="wow fadeIn" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> atividade realizada atingiu de fato os objetivos propostos? </li>
+                                            <li class="wow fadeIn" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> O adolescente sentiu-se confortável para discutir a natureza das atividades ou teve vontade de substituí-las por outras? </li>
+                                            <li class="wow fadeIn" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> É possível perceber pelo discurso ou pelas práticas do adolescente que houve algum ganho subjetivo com a execução da atividade? </li>
+                                            <li class="wow fadeIn" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> atividade foi importante para seu processo de responsabilização? </li>
+                                            <li class="wow fadeIn" data-wow-delay="1.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> O monitoramento realizado foi suficiente para identificar as dificuldades ou apenas no término da medida que foram percebidos aspectos que poderiam ter sido alterados antes? </li>
+                                            <li class="wow fadeIn" data-wow-delay="1.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Houve alguma manifestação da comunidade sobre a importância da atividade realizada pelo adolescente ou mudança de visão sobre ele? </li>
+                                        </ul>
+
+                                        <br><!-- Fique Atento -->
+                                        <div class="FiqueAtentoCaixa">
+                                            <p class="FiqueAtentoTitulo"> Fique Atento</p>
+                                            <div class="FiqueAtentoTexto">
+                                                <p>Avaliar é aprender! Mas para que possamos aprender, é necessário tornar os resultados claros, mesmo que não tenham sido positivos. Há quatro aspectos fundamentais para refletir sobre o processo socioeducativo de cada adolescente. (BRASIL, 2022, p. 87)</p>
+                                            </div>
+                                        </div>
+                                        <br><br>
+
+                                        No processo avaliativo alguns pontos são essenciais para sua efetivação, como os pontos fortes, os pontos sensíveis, os de hipótese e os pontos de mudanças. No quadro abaixo apresentamos os aspectos que cada um contempla.
+
+                                        <!-- imagem -->
+
+                                        Diante do exposto, podemos concluir que a avaliação é um processo dinâmico e coletivo que vai além da classificação, valoração ou medição de processos, sendo fruto do compartilhamento entre sujeitos na tomada de decisões e em busca da melhoria constante do serviço de medidas socioeducativas.
+
+                                        <div class="bd-callout bd-callout-success">
+                                            <p>“Avaliar é pensar se o nosso trabalho, de fato, alcança nosso objetivo: o adolescente em sua plenitude”. (BRASIL, 2022, p. 89)</p>
+                                        </div>
+                                        <br>
                                     </div>
-                                    <br><br>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 09 -->
 
-                                    No processo avaliativo alguns pontos são essenciais para sua efetivação, como os pontos fortes, os pontos sensíveis, os de hipótese e os pontos de mudanças. No quadro abaixo apresentamos os aspectos que cada um contempla.
-
-                                    <!-- imagem -->
-
-                                    Diante do exposto, podemos concluir que a avaliação é um processo dinâmico e coletivo que vai além da classificação, valoração ou medição de processos, sendo fruto do compartilhamento entre sujeitos na tomada de decisões e em busca da melhoria constante do serviço de medidas socioeducativas.
-
-                                    <div class="bd-callout bd-callout-success">
-                                        <p class="text-end">“Avaliar é pensar se o nosso trabalho, de fato, alcança nosso objetivo: o adolescente em sua plenitude”. (BRASIL, 2022, p. 89)</p>
-                                    </div>
-
-
-
-                                    <br><br><!-- SCRIPT LIGHTBOX -->
-                                    <script>
-                                        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-                                            event.preventDefault();
-                                            $(this).ekkoLightbox();
-                                        });
-
-                                        $(function() {
-                                            $('[data-toggle="tooltip"]').tooltip()
-                                        })
-                                    </script>
-
-                                </div> <!-- CLASS PAGE TITLE FIM -->
-                            </div> <!-- End col-md-10 -->
-
-                            <div class="col-md-1"></div>
-                        </div> <!-- End row -->
-
-                        <!-- Botões de navegação -->
-                        <div class="text-center">
-                            <a href="Topico03.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
-                            <a href="Topico03.2.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
                         </div>
+                        <!-- FIM Accordion -->
 
-                    </div> <!-- CONTEUDO FIM -->
 
-                    <!-- FOOTER -->
-                    <?php include('layout/footer.php') ?>
 
-                </div> <!-- DIV MAIN FIM -->
+                        <br><br><!-- SCRIPT LIGHTBOX -->
+                        <script>
+                            $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+                                event.preventDefault();
+                                $(this).ekkoLightbox();
+                            });
 
-                <!-- FOOTER JS -->
-                <?php include('layout/js.php') ?>
+                            $(function() {
+                                $('[data-toggle="tooltip"]').tooltip()
+                            })
+                        </script>
 
-                <!-- BOTÃO BACK TO TOP -->
-                <a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
+                    </div> <!-- CLASS PAGE TITLE FIM -->
+                </div> <!-- End col-md-10 -->
+
+                <div class="col-md-1"></div>
+            </div> <!-- End row -->
+
+            <!-- Botões de navegação -->
+            <div class="text-center">
+                <a href="Topico03.8.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
+                <a href="Topico04.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+            </div>
+
+        </div> <!-- CONTEUDO FIM -->
+
+        <!-- FOOTER -->
+        <?php include('layout/footer.php') ?>
+
+    </div> <!-- DIV MAIN FIM -->
+
+    <!-- FOOTER JS -->
+    <?php include('layout/js.php') ?>
+
+    <!-- BOTÃO BACK TO TOP -->
+    <a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
 
 </body>
 
