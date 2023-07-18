@@ -69,7 +69,6 @@ include('layout/header.php');
                 <!--Fim figura/texto div-->
 
                 <!-- Titulo Figura -->
-
                 <div class="text-center">
                     <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
                         <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">

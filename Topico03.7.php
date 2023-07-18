@@ -7,7 +7,7 @@ require_once('conectamoodle.php');
 ?>
 
 <?php
-$page = 'Topico03.1';
+$page = 'Topico03.7';
 include('layout/header.php');
 ?>
 
@@ -33,19 +33,23 @@ include('layout/header.php');
                     <!-- Begin col-md-10 -->
                     <div class="page-title">
 
-                    <p class="SubTitulo">Princípios norteadores na elaboração do PIA </p>
+                        <p class="SubTitulo">Quando elaborar o PIA </p>
                         <hr>
                         <br>
 
+                        <p class="wow fadeInRight" data-wow-delay="0.3s">A elaboração do PIA inicia-se no momento da acolhida do adolescente, e deve ser monitorado e avaliado com vistas a identificar a necessidade de modificações em suas ações e metas, pactuadas durante a trajetória socioeducativa. Esta prática vale para as duas medidas socioeducativas em meio aberto, Liberdade Assistida - LA e Prestação de Serviços à Comunidade - PSC, lembrando que a última não se resume à realização das atividades nas instituições parceiras. </p>
 
-                        <p>Garantia do direito e do superior interesse do adolescente - Todo o processo de elaboração e desenvolvimento do PIA, deve buscar a garantia dos direitos fundamentais (saúde, educação, cultura, esporte e lazer, direito à profissionalização e a proteção no trabalho, direito à liberdade, ao respeito e a dignidade e convivência familiar e comunitária);</p>
-                        <p>Atenção as especificidades, respeito à diversidade e não discriminação - A elaboração e a implementação do PIA deve contar, também, com ações que considerem a atenção às diversidades, especificidades e o reconhecimento da singularidade de cada adolescente e de sua família, com vistas a atender adequadamente suas necessidades e fortalecer suas potencialidades;</p>
-                        <p>Temporalidade - A elaboração do PIA e o desenvolvimento de suas estratégias e ações devem, necessariamente, contar com prazos e o menor tempo necessário para que possa viabilizar com segurança, a reintegração do adolescente a suas atividades cotidianas;</p>
-                        <p>Participação do adolescente e da família no PIA - Na elaboração e desenvolvimento do PIA, deve-se assegurar a escuta e o olhar individualizado para o adolescente, a fim de conhecer suas expectativas, desejos, medos e opiniões.</p>
+                        <!-- Importante -->
+                        <div class="ImportanteCaixa">
+                            <p class="ImportanteTitulo"> Importante</p>
+                            <div class="ImportanteTexto">
+                                <p>Cabe evidenciar que o PIA não deve se restringir à coleta de informações pessoais e nem ao plano inicial enviado ao Judiciário no prazo de até 15 dias, conforme previsto no artigo 56 da Lei 12.594/2012, pois configura-se como um processo ativo, dinâmico, no qual o fazer socioeducativo se dá em tempo integral, podendo ser modificado, justificadamente, a qualquer tempo e, repactuado, lembrando sempre que estamos trabalhando com pessoas em condição peculiar de desenvolvimento. (BRASIL, 2022).</p>
+                            </div>
+                        </div>
 
-                        <p>É de suma importância que sejam oportunizados momentos nos quais os adolescentes possam ter acesso a informações sobre a situação jurídica e familiar, demonstrar o que esperam e participar das decisões que impactem no seu desenvolvimento e na sua trajetória. Essa participação deve estar sempre associada à avaliação quanto aos riscos à sua integridade física e psíquica, e a promoção aos direitos assegurados no ECA.</p>
 
-                        <p>É importante que a participação do adolescente seja conduzida de forma cuidadosa, por meio de estratégias adequadas ao seu estágio de desenvolvimento, como também não é menos importante que a família seja incluída, participativamente, no processo de elaboração e implementação do PIA. Visando que as suas expectativas, motivações, potencialidades, dificuldades, necessidades e desejos sejam conhecidos e possam opinar, sobretudo, quanto ao desenvolvimento das atividades na perspectiva de novas conquistas para a construção de uma “nova vida”.</p>
+
+                        <p>A contagem do prazo legal para envio do PIA das medidas socioeducativas em meio aberto é de 15 (quinze) dias corridos, a contar da data da acolhida com atenção ao que determina o Art. 152, §2º do ECA. </p>
 
 
 
@@ -69,8 +73,8 @@ include('layout/header.php');
 
             <!-- Botões de navegação -->
             <div class="text-center">
-                <a href="Topico03.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
-                <a href="Topico03.2.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+                <a href="Topico03.6.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
+                <a href="Topico03.8.php?AA=<?php echo $AtividadeAvaliativa ?>" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
             </div>
 
         </div> <!-- CONTEUDO FIM -->
